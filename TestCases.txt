@@ -1,0 +1,16 @@
+here i have written two test cases
+
+Test Case 1:
+
+   *booking a flight from Delhi to kolkata by sending keyword 'Del' for Delhi 
+and 'Kolk' for Kolkata,and by clicking todays date on calender and click search
+button.
+
+   * In resulting page,book the least expensive package by clicking 'Book Now' button.
+
+   * Class: flightBooking.java
+   
+ Test case 2:
+ 
+   * Validate Auto suggestion by sending 'Del' to see if there 'Delta Junction' present or not.
+   * Class: validateAutoSuggestion.java
